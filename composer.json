@@ -62,7 +62,6 @@
         "symfony/finder": "^5.2 || ^6.0 || ^7.0"
     },
     "conflict": {
-        "sebastian/comparator": ">=5.0"
     },
     "bin": [
         "bin/schema"
